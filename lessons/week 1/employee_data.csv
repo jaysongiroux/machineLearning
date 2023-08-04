@@ -1,0 +1,16 @@
+City,Age,Salary,Eligible
+Munbai,27,51000,Yes
+NewYork,27,48000,Yes
+Munbai,30,52000,No
+NewYork,,66000,No
+Tokyo,48,,Yes
+Tokyo,,51000,No
+singapore,33,69000,No
+NewYork,40,7900,Yes
+Munbai,38,,Yes
+Singapore,35,38000,No
+Tokyo,,56000,No
+Singapore,35,72000,No
+NewYork,45,7300,Yes
+Munbai,69,85000,Yes
+Singapore,16,49000,No
